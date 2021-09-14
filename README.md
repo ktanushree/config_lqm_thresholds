@@ -1,4 +1,4 @@
-# Prisma SDWAN Configure LQM Extensions 
+# Prisma SDWAN Configure LQM Thresholds 
 This utility is used to configure LQM Thresholds for media, a single app or all applications.
 
 #### Synopsis
